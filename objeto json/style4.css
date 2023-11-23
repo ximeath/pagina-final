@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(165, 159, 159);
+    padding: 20px;
+  }
+  
+  .a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Bebas Neue', sans-serif;
+  }
+  
+  body{
+    background-color: beige;
+  }
+
+  h1{
+    color: rgb(224, 6, 6);
+  }

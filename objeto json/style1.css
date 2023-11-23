@@ -1,0 +1,73 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,300&display=swap');
+
+body{
+    font-family: 'Roboto Serif', serif;
+}
+
+.principal{
+    text-align: justify;
+    margin: 20px;
+}
+
+.principal p{
+    margin: 20px;
+}
+
+.principal article{
+    border: 2px dotted rgba(0, 0, 0, 0.966);
+    margin: 10px 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+.principal h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.container-gal{
+    width: 95%;
+    align-content: center;
+    margin: 0 auto;
+   display: flex;
+  flex-direction: row;
+    
+}
+
+div.galeria{
+    margin: 10px;
+    box-shadow: 2px 4px 8px red;
+    width: 300px;
+    margin: 0 auto;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.galeria img{
+    width: 300px;
+    height: 300px;
+    margin: 10px auto;
+   align-content: center;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(165, 159, 159);
+    padding: 20px;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body{
+    background-color: beige;
+}

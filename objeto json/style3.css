@@ -1,0 +1,31 @@
+body{
+color: black;
+background-color: beige;
+background-image:url(./imge/cir.webp);
+background-position: center;
+background-repeat: no-repeat;
+height: 90vh;
+}
+
+.p{
+  font-size: 60px;
+}
+
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(165, 159, 159);
+  padding: 20px;
+}
+
+.a{
+  text-decoration: none;
+  color: black;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+body{
+  background-color: beige;
+}

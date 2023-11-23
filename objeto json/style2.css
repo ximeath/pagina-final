@@ -1,0 +1,55 @@
+
+#titulo{
+    color: black;
+    font-size: 40px;
+}
+
+header{
+    margin-left: 25%;
+    background-image: url('./imagenes/logo.jpg') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 80vh;
+}
+
+h1#tit2{
+    color: rgb(201, 7, 7);
+    font-size: 60px;
+   text-align: center;
+   position: relative; 
+   left: 0%;
+   top: 100%;
+ text-align: center;
+   text-shadow:10px 10px 5px rgb(128, 126, 126);
+}
+
+div img{
+    margin: 10px;
+    width: 400px;
+    height: 450px;
+}
+
+main{
+    height: 50%;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(165, 159, 159);
+    padding: 20px;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body{
+    background-color: beige;
+}
